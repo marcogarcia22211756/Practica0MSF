@@ -2,7 +2,7 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
+## Infromación del estudiante
 Marco Antonio Garcia Montilla \[22211756]; l22211756@tectijuan.edu.mx
 
 Modelado de Sistemas Fisiológicos
